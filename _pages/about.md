@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "John Lawrence website"
+title: "John Lawrence website (WIP) "
 author_profile: true
 redirect_from: 
   - /about/
