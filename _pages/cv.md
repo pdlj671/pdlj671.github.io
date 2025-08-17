@@ -16,48 +16,28 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Aug. 2024 - Aug. 2025: ORISE fellow
+  * Food & Drug Administration
+  * Duties includes: Developing PBPK models for healthy and pregnant populations for antidepressants and serotonin
+  * Advisor: Dr. Blessy George
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Aug. 2020 - Aug. 2024: Graduate Research Assistant
+  * Virginia Commonwealth University
+  * Duties included: Exploration of Mathematical Models of Phage-Bacteria Population Dynamics
+  * Advisor: Dr. Rebecca Segal
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Aug. 2020 - June 2024: Graduate Teaching Assistant
+  * Virginia Commonwealth University
+  * Duties included: Assisting students in math courses ranging from college algebra to calculus
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Mathematical Modeling
+  * Pharmacokinetic/Pharmacodynamic Modeling
+  * Physiologically Based Pharmacokinetic Modeling
+* In-vitro in-vivo extrapolation 
+* Parameter Estimation
+* Sensitivity Analysis
+* Monte Carlo Simulations
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
