@@ -39,5 +39,10 @@ Skills
 * Parameter Estimation
 * Sensitivity Analysis
 * Monte Carlo Simulations
+* Programming
+  * R (mrgsolve, nlmixr2, ospsuite)
+  * PK-Sim
+  * MoBi
+  * MATLAB
 
 
