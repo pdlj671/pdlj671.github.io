@@ -8,9 +8,10 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-- url: /files/John Palacios resume.pdf
-
+---
+ title: CV here
+ permalink: /files/John Palacios Resume.pdf
+---
 Education
 ======
 * Ph.D in Systems Modeling & Analysis, Virginia Commonwealth University, 2024
