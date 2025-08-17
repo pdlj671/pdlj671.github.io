@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV](files/John Palacios Resume.pdf)
+[Download CV](/files/John Palacios Resume.pdf)
 
 Education
 ======
