@@ -1,16 +1,26 @@
 ---
 permalink: /
-title: "John Lawrence website"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Welcome!
+Introduction
 ======
 
-Hi, my name is John Lawrence and I have a bachelor's in mathematics from the University of Guam in 2018. I received my Ph.D. in Systems Modeling & Analysis in 2024 where I focused on phage-bacteria population dynamics using differential equations and agent-based models. I recently completed a 1 year postdoc position at the FDA where I developed whole-body PBPK models for healthy and pregnant populations. 
+I am an upcoming postdoc at the Moffitt Cancer Center where I will be developing patient-specific, predictive models of minimally- and non-invasive biomarkers. The project will be highly collaborative where I will be working with clinicians and mathematical oncologists. 
 
-My research interests lie in PBPK in special populations and PK/PD modeling. 
+I have completed a 1 year postdoc at the FDA through the ORISE program where I worked on developing a PBPK model for cardiac fetal safety. I focused on validation healthy population PBPK models for antidepressants and extended to pregnancy populations to predict drug exposure in the mother and fetus. In addition, I have utilized an in silico cotyledon model to quantify placental clearance parameters.
+
+Research Interests
+======
+
+- PBPK/PKPD modeling
+- Nonlinear mixed effects models
+- Pregnancy
+- Cancer
+
+My research interests lie in utiziling mathematical modeling to help make informed decisions related to drug dose, treatments, and more. In addition, I enjoy using mathematics to make an impact in the medical field and potentially impacting patient's lives.
 
