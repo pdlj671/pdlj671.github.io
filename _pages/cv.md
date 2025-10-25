@@ -18,9 +18,14 @@ Education
 
 Work experience
 ======
+* Dec. 2025 - Present: Applied postdoc fellow
+  * Moffitt Cancer Center
+  * Duties include: Developing patient-specific, predictive models of minimally- and non-invasive biomarkers
+  * Advisor: Dr. Brady-Nicholls
+
 * Aug. 2024 - Aug. 2025: ORISE fellow
   * Food & Drug Administration
-  * Duties includes: Developing PBPK models for healthy and pregnant populations for antidepressants and serotonin
+  * Duties included: Developing PBPK models for healthy and pregnant populations for antidepressants and serotonin
   * Advisor: Dr. Blessy George
 
 * Aug. 2020 - Aug. 2024: Graduate Research Assistant
