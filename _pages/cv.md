@@ -21,7 +21,6 @@ Work experience
 * Dec. 2025 - Present: Applied postdoc fellow
   * Moffitt Cancer Center
   * Duties include: Developing patient-specific, predictive models of minimally- and non-invasive biomarkers
-  * Advisor: Dr. Brady-Nicholls
 
 * Aug. 2024 - Aug. 2025: ORISE fellow
   * Food & Drug Administration
