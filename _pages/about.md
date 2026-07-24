@@ -10,15 +10,17 @@ redirect_from:
 Introduction
 ======
 
-I am an upcoming postdoc at the Moffitt Cancer Center where I will be developing patient-specific, predictive models of minimally- and non-invasive biomarkers. The project will be highly collaborative where I will be working with clinicians and mathematical oncologists. 
+I am a postdoctoral fellow at the FDA where I will continue to work on developing PBPK and QSP models for pregnant women. My background is in mathematical modeling of biological systems. In my PhD, I focused on modeling phage-bacteria population dynamics using ODE models and various techniques to understand the model such as sensitivity analysis. I was an applied postdoctoral fellow at the Moffitt Cancer Center where I worked with mathematical oncologists on building patient-specific models for prostate cancer patients. 
 
-I have completed a 1 year postdoc at the FDA through the ORISE program where I worked on developing a PBPK model for cardiac fetal safety. I focused on validation healthy population PBPK models for antidepressants and extended to pregnancy populations to predict drug exposure in the mother and fetus. In addition, I have utilized an in silico cotyledon model to quantify placental clearance parameters.
+I aim to pursue a career in industry where I develop models for drug development.
+
 
 Research Interests
 ======
 
 - PBPK/PKPD modeling
 - Nonlinear mixed effects models
+- Pharmacology
 - Pregnancy
 - Cancer
 
